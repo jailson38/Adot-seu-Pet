@@ -32,6 +32,10 @@
         <item>Raças médias</item>
         <item>Raças grandes</item>
     </string-array>
-    <string name="activity_tela_cadastro_salvar">Salvar</string>
+    <string name="activity_tela_cadastro_pets_salvar">Salvar</string>
 
+    <string name="activity_tela_cadastro_pets_salvo_com_sucesso">Pets salvo com sucesso</string>
+    <string name="activite_tela_cadastro_pets_erro_ao_salva">Erro ao salvar pets</string>
+
+    <string name="activity_tela_cadastros_pets_campos_vazios">Favor preencher todos os campos</string>
 </resources>
