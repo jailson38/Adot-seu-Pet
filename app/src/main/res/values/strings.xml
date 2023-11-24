@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Adote o seu Pet</string>
+    <string name="activity_main_usuario">Usuário</string>
+    <string name="activity_main_senha">Senha</string>
+    <string name="activity_main_entrar">Entra</string>
+    <string name="activity_main_autenticacao">Usuario ou senha incorretos</string>
+    <string name="activity_main_esqueci">Esqueci a senha</string>
+    <string name="activity_main_cadastra">Cadastra senha</string>
+    <string name="activity_main_falha_autenticacao">Falha na Autenticação</string>
+    <string name="activitu_tela_selecoes_oets">pets</string>
+    <string name="activity_tela_selecao_gato">Gatos</string>
+    <string name="activity_tela_selecao_cao">Caes</string>
+    <string name="activity_tela_selecao_coelho">Coelhos</string>
+    <string name="activity_tela_selecao_agendamento">Agendamentos</string>
+
+    <string name="activity_tela_lista_pets_novo">Novo Pet</string>
+    <string name="activity_tela_lista_pets_cadastrdos">Pets cadastradas</string>
+
+    <string name="activity_tela_raca">Raça</string>
+    <string name="activity_tela_quantidade">Quantidades</string>
+    <string name="activity_tela_tipo">Tipo</string>
+    <string-array name="activity_tela_cadastro_pet_tipo_lista">
+        <item>Preto</item>
+        <item>Branco</item>
+        <item>Caramelo</item>
+    </string-array>
+    <string name="activity_tela_cadastro_pet_porte">Porte</string>
+    <string-array name="activity_tela_cadastro_pets_porte_lista">
+        <item>Filhote</item>
+        <item>Adulto</item>
+        <item>Raças pequenas</item>
+        <item>Raças médias</item>
+        <item>Raças grandes</item>
+    </string-array>
+    <string name="activity_tela_cadastro_salvar">Salvar</string>
+
+</resources>
